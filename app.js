@@ -148,6 +148,139 @@
 
 
 
+// question 10
+
+// var pass1 = prompt("enter password")
+// var enterAgain = prompt("enter password again")
+
+// var check;
+
+// if(pass1 === "" && enterAgain === ""){
+//     console.log("please enter password")
+// }
+// else if(pass1 = enterAgain){
+//     console.log("correct")
+    
+// }
+// else{
+//     console.log("password are not same")
+
+// }
+
+// question 10
+
+
+
+// question 11 
+
+// var names = prompt("enter name")
+
+// if(names  === "fahad"){
+//     document.write("hello fahad!")
+// }
+// else{
+//     document.write("you are not fahad")
+// }
+
+// question 11 
+
+
+
+// question 12 
+
+// var greeting ;
+// var hours = prompt("enter time")
+
+// if(hours < 18 ){
+//     console.log(greeting = "good day")
+// }
+// else {
+//    console.log(greeting = "good evening")
+// }
+
+// question 12 
+
+
+// question 14
+
+var num = prompt("enter num")
+
+if (num > 0 ){
+    console.log("positive")
+}
+else if (num < 0 ){
+    console.log("negative")
+}
+else{
+    console.log("0")
+}
+// question 14
+
+
+
+
+// question 15
+
+// var  hour = prompt("enter time")
+
+// if (hour >= 6 && hour <=9 ){
+//     console.log("Breakfast")
+// }
+// else if (hour >=11 && hour <=1 ){
+//     console.log("time for a lunch")
+// }
+// else if (hour >5 && hour <=8 ){
+//     console.log("its dinner time")
+// }
+// else {
+//     console.log("u have to wait or go get a stack ")
+// }
+
+
+// question 15
+
+
+
+// question 16
+
+// var check1 = prompt("enter a value")
+// console.log(typeof(check1))
+
+// question 16
+
+
+
+// question 17
+
+// var alpha = prompt("enter a single character")
+
+// if (alpha === "a" || alpha === "e"  || alpha === "i"  || alpha === "o"  || alpha === "u"  ){
+//     console.log(true)
+// }
+// else{
+//     console.log(false)
+// }
+
+
+// question 17
+
+
+
+
+// question 18 
+
+// console.log(10 !== 8)
+
+// question 18 
+
+
+
+
+
+
+
+
+
 
 
 
